@@ -1,4 +1,4 @@
-<a href="https://ibb.co/9rKT44W"><img src=![image](https://user-images.githubusercontent.com/83122757/156430546-26b238d0-6f40-4a64-a8c4-f4274aa5dac9.png) alt="31-97010286850-20220225-171050" border="0"></a>
+<a href=><img src=![image](https://user-images.githubusercontent.com/83122757/156430546-26b238d0-6f40-4a64-a8c4-f4274aa5dac9.png) alt="31-97010286850-20220225-171050" border="0"></a>
 
 
 - 👋 Hi, I’m 22388o
