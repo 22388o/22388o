@@ -1,13 +1,12 @@
-<a href="https://ibb.co/9rKT44W"><img src="https://i.ibb.co/9rKT44W/31-97010286850-20220225-171050.jpg" alt="31-97010286850-20220225-171050" border="0"></a>
+<a href="https://ibb.co/9rKT44W"><img src="![image](https://user-images.githubusercontent.com/83122757/156430546-26b238d0-6f40-4a64-a8c4-f4274aa5dac9.png)" alt="31-97010286850-20220225-171050" border="0"></a>
 
 
-- 👋 Hi, I’m @dark-worf
-- 👀 I’m interested in ...technology
-- 🌱 I’m currently learning ...HOW TO MAKE WHATSAPP BOT
-- 💞️ I’m looking to collaborate on ...anything about tech. 
-- 📫 How to reach me ...https://wa.me/265994894966
+- 👋 Hi, I’m 22388o
+- 👀 I’m interested in Bitcoin, Lightning Network, Atomic Swap, Sidechain, Drivechain, etc;
+- 🌱 I’m currently learning and creating Portico Exchange, EVM on Lightning Network, Marketplace P2P and NFTs;
+- 💞️ I’m looking to collaborate on anything about Bitcoin and Lightning Network.
 
 <!---
-dark-worf/dark-worf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+22388o/dark-worf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
