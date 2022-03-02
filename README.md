@@ -1,4 +1,4 @@
-<img src=![image](https://user-images.githubusercontent.com/83122757/156430546-26b238d0-6f40-4a64-a8c4-f4274aa5dac9.png)></a>
+![image](https://user-images.githubusercontent.com/83122757/156430546-26b238d0-6f40-4a64-a8c4-f4274aa5dac9.png)
 
 
 - 👋 Hi, I’m 22388o
