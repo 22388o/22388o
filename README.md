@@ -1,8 +1,4 @@
-![image] (![image](https://user-images.githubusercontent.com/83122757/156558626-b8ed3a06-b5fc-4779-a4e8-ed80f5ebca9b.png)
-
-
-
-
+![image](https://user-images.githubusercontent.com/83122757/203779374-cd8639af-b881-419c-a43c-e4bb527816de.png)
 
 
 - 👋 Hi, I’m 22388o
