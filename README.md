@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/83122757/203779374-cd8639af-b881-419c-a43c-e4bb527816de.png)
+![image](https://user-images.githubusercontent.com/83122757/230884603-a2f05f89-c49d-417b-a899-b8557055d47a.png)
 
 
 - 👋 Hi, I’m 22388o
@@ -10,3 +10,5 @@
 22388o/dark-worf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=22388o)](https://github.com/22388o/github-readme-stats)
