@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m 22388o
-- 👀 I’m interested in Bitcoin and Lightning Network
+- 👀 I’m interested on Bitcoin, Nostr, TBB , HyperCore and Lightning Network
 - 🌱 I’m currently creating Inbound Liquidity, P2P BTC and Area Layer
 - ✈️ I’m looking to collaborate on anything about Bitcoin and Lightning Network.
 
