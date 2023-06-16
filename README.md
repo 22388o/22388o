@@ -9,7 +9,7 @@
 ## Projects
 
 - [Portico Exchange](https://github.com/PorticoExchange) - DEX with Atomic transactions
-- [Bitswap]https://github.com/Bitswap-BiFi) - DEX AMM on RGB protocol
+- [Bitswap](https://github.com/Bitswap-BiFi) - DEX AMM on RGB protocol
 
 <!---
 22388o/dark-worf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
