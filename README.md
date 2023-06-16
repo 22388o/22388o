@@ -6,6 +6,11 @@
 - 🌱 I’m currently creating Inbound Liquidity, P2P BTC and Area Layer
 - ✈️ I’m looking to collaborate on anything about Bitcoin and Lightning Network.
 
+## Projects
+
+- [Portico Exchange](https://github.com/PorticoExchange) - DEX with Atomic transactions
+- [Bitswap]https://github.com/Bitswap-BiFi) - DEX AMM on RGB protocol
+
 <!---
 22388o/dark-worf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
