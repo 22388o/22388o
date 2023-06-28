@@ -10,8 +10,8 @@
 
 - [Portico Exchange](https://github.com/PorticoExchange) - DEX with Atomic transactions
 - [Bitswap](https://github.com/Bitswap-BiFi) - DEX AMM on RGB protocol
-- [Awesome RGB Protocol](https://github.com/22388o/Awesome-RGB-Protocol) - List of resources around RGB Protocol
-- [Awesome Taproot Assets](https://github.com/22388o/Awesome-Taproot-Assets) - List of resources around Taproot Assets
+- [Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol) - List of resources around RGB Protocol
+- [Awesome Taproot Assets](https://github.com/22388o/awesome-taproot-assets) - List of resources around Taproot Assets
 
 <!---
 22388o/dark-worf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
