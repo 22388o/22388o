@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m 22388o
 - 👀 I’m interested on Bitcoin, Nostr, TBD ,  HyperCore and Lightning Network
-- 🌱 I’m currently creating Inbound Liquidity, P2P BTC and Area Layer
+- 🌱 I’m currently creating Portico Labs, Bitswap and helping companies/FOSS Organizations Area Layer and Horus 
 - ✈️ I’m looking to collaborate on anything about Bitcoin and Lightning Network.
 
 ## Projects
