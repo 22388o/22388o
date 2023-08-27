@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m 22388o
-- 👀 I’m interested on Bitcoin, Nostr, TBD ,  HyperCore, Lightning Network, Taproot, Miniscript, Coinjoin, Payjoin, Script, OP Codes, RGB Protocol, Taproot Assets. 
+- 👀 I’m interested on Bitcoin, Nostr, TBD ,  HyperCore, Lightning Network, Taproot, Miniscript, Coinjoin, Payjoin, Script, OP Codes, RGB Protocol, Taproot Assets, DLCs and more.
 - 🌱 I’m currently creating Portico Labs, Bitswap and helping Companies/FOSS Organizations Area Layer and Horus.
 - ✈️ I’m looking to collaborate on anything about Bitcoin and Lightning Network.
 
