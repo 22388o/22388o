@@ -3,13 +3,16 @@
 
 - 👋 Hi, I’m 22388o
 - 👀 I’m interested on Bitcoin, Nostr, TBD ,  HyperCore, Lightning Network, Taproot, Miniscript, Coinjoin, Payjoin, Script, OP Codes, RGB Protocol, Taproot Assets, DLCs and more.
-- 🌱 I’m currently creating Bitswap and helping Companies/FOSS Organizations Area Layer, Horus and Tribe
+- 🌱 I’m currently creating Bitswap, FDK and helping Companies/FOSS Organizations Area Layer, Horus and Tribe
 - ✈️ I’m looking to collaborate on anything about Bitcoin and Lightning Network.
 
 ## Projects
 
 - [Bitswap](https://github.com/Bitswap-BiFi) - DEX AMM on RGB protocol
 - [Frost Development Kit](https://github.com/FrostDevKit) - Development Kit for Frost
+- [Area Layer](https://github.com/AreaLayer) - P2P Economy on Bitcoin
+- [Tribe](https://github.com/Tribe-BTC) - Publicly Auditable Cooperatives on Bitcoin
+- [Horus (formerly Phoenix)](https://github.com/Horus-Org) - (Open source Bitcoin, Lightning Network, Nostr, TBD and Hypercore development)
 - [Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol) - List of resources around RGB Protocol
 - [Awesome Taproot Assets](https://github.com/22388o/awesome-taproot-assets) - List of resources around Taproot Assets
 
