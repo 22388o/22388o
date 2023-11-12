@@ -9,6 +9,7 @@
 ## Projects
 
 - [Bitswap](https://github.com/Bitswap-BiFi) - DEX AMM on RGB protocol
+- [Frost Development Kit](https://github.com/FrostDevKit) - Development Kit for Frost
 - [Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol) - List of resources around RGB Protocol
 - [Awesome Taproot Assets](https://github.com/22388o/awesome-taproot-assets) - List of resources around Taproot Assets
 
