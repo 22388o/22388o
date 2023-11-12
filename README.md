@@ -12,7 +12,7 @@
 - [Frost Development Kit](https://github.com/FrostDevKit) - Development Kit for Frost
 - [Area Layer](https://github.com/AreaLayer) - P2P Economy on Bitcoin
 - [Tribe](https://github.com/Tribe-BTC) - Publicly Auditable Cooperatives on Bitcoin
-- [Horus (formerly Phoenix)](https://github.com/Horus-Org) - (Open source Bitcoin, Lightning Network, Nostr, TBD and Hypercore development)
+- [Horus (formerly Phoenix)](https://github.com/Horus-Org) - Open source Bitcoin, Lightning Network, Nostr, TBD and Hypercore development
 - [Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol) - List of resources around RGB Protocol
 - [Awesome Taproot Assets](https://github.com/22388o/awesome-taproot-assets) - List of resources around Taproot Assets
 
