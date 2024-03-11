@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m 22388o
 - 👀 I’m interested on Bitcoin, Nostr, TBD ,  HyperCore, Lightning Network, Taproot, Miniscript, Coinjoin, Payjoin, Script, OP Codes, RGB Protocol, Taproot Assets, DLCs and more.
-- 🌱 I’m currently creating Bitswap, FDK and helping Companies/FOSS Organizations Area Layer, Horus and Invebit
+- 🌱 I’m currently creating Bitswap, FDK and helping Companies/FOSS Organizations Area Layer, Horus, Invebit and Bitlight Labs
 - ✈️ I’m looking to collaborate on anything about Bitcoin and Lightning Network.
 
 ## Projects
