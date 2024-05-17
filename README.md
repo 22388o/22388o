@@ -12,6 +12,13 @@
 - [Frost Development Kit](https://github.com/FrostDevKit) - Development Kit for Frost
 - [Area Layer](https://github.com/AreaLayer) - P2P Economy on Bitcoin
 - [Horus (formerly Phoenix)](https://github.com/Horus-Org) - Open source Bitcoin and Lightning Network development
+- [Orange Wallet](https://github.com/Orange-BTC-Wallet) - Open source Desktop  wallet with support to LN, Bitcoin and Multisig
+- [Bet BTC](https://github.com/Bet-BTC) - Open source Bet platform powered by DLC, Lightning Network, Nostr and Bitcoin
+- [Onion Tip](https://github.com/Onion-Tip) - Open source sytem allow earn sars thought Lightning network providing privacy
+- [Coinjoin Tools](https://github.com/Coinjoin-Tools) - Open source development for Coinjoin
+- [Sovereign Kit](https://github.com/Sovereign-Kit) - Open source development for Multisig system using Fedimint, Nostr and Bitcoin
+- [SSI Keys](https://github.com/SSI-Keys) - Open source Chrome Extension based on SSI keys from LNP/BP Association
+- [Nostr Dev](https://github.com/Nostr-Dev) - Github for Nostr using $ GIT
 - [Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol) - List of resources around RGB Protocol
 - [Awesome Taproot Assets](https://github.com/22388o/awesome-taproot-assets) - List of resources around Taproot Assets
 
