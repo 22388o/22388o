@@ -19,7 +19,7 @@
 - [Sovereign Kit](https://github.com/Sovereign-Kit) - Open source development for Multisig system using Fedimint, Nostr and Bitcoin
 - [SSI Keys](https://github.com/SSI-Keys) - Open source Chrome Extension based on SSI keys from LNP/BP Association
 - [Nostr Dev](https://github.com/Nostr-Dev) - Github for Nostr using $ GIT
-- [Fiatswap](https://github.com/Fiatswap-RSK) - Open source app to mini swaps based on Roostock Network
+- [Fiatswap](https://github.com/Fiatswap-RSK) - Open source app to mini swaps based on Rootstock Network (RSK)
 - [Hydra Wallet](https://github.com/Hydra-Wallet) - Fork of Wasabi Wallet
 - [Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol) - List of resources around RGB Protocol
 - [Awesome Taproot Assets](https://github.com/22388o/awesome-taproot-assets) - List of resources around Taproot Assets
