@@ -51,6 +51,7 @@
  <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bitcoin_lightning_logo.svg/1024px-Bitcoin_lightning_logo.svg.png" alt="Lightning Network" title="Lightning Network"/></code>
   <code><img width="50" src="https://miro.medium.com/v2/resize:fit:1200/0*MtBYi1QJlPB0hBJR.png" alt="RGB Protocol" title="RGB Protocol"/></code>
   <code><img width="50" src="https://www.shutterstock.com/image-vector/cryptography-icon-thin-linear-outline-600nw-2117361122.jpg" alt="Cryptography" title="Cryptography"/></code>
+   <code><img width="50" src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" title="Solidity"/></code>
 </code>
 
 </div>
