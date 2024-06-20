@@ -53,7 +53,6 @@
   <code><img width="50" src="https://www.shutterstock.com/image-vector/cryptography-icon-thin-linear-outline-600nw-2117361122.jpg" alt="Cryptography" title="Cryptography"/></code>
    <code><img width="50" src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" title="Solidity"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></code>
  <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
