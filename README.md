@@ -56,6 +56,8 @@
  <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+    <code><img width="50" src="https://static.vecteezy.com/system/resources/thumbnails/010/518/719/small/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-website-social-media-mobile-app-ui-illustration-vector.jpg" alt="Artificial Intelligence" title="Artificial Intelligence"/></code>
+
 </div>
 
 <!---
