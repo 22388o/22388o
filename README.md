@@ -21,8 +21,10 @@
 - [Nostr Dev](https://github.com/Nostr-Dev) - Github for Nostr using $ GIT
 - [Fiatswap](https://github.com/Fiatswap-RSK) - Open source app to mini swaps based on Rootstock Network (RSK)
 - [Hydra Wallet](https://github.com/Hydra-Wallet) - Fork of Wasabi Wallet
+- [Nostr Smart Contract](https://github.com/nostr-smart-contract) - Bringing smart contracts to Nostr by Bitcoin script
 - [Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol) - List of resources around RGB Protocol
 - [Awesome Taproot Assets](https://github.com/22388o/awesome-taproot-assets) - List of resources around Taproot Assets
+  
 ## Skills                                       
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
