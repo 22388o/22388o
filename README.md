@@ -22,6 +22,8 @@
 - [Fiatswap](https://github.com/Fiatswap-RSK) - Open source app to mini swaps based on Rootstock Network (RSK)
 - [Hydra Wallet](https://github.com/Hydra-Wallet) - Fork of Wasabi Wallet
 - [Nostr Smart Contract](https://github.com/nostr-smart-contract) - Bringing smart contracts to Nostr by Bitcoin script
+- [Ark Wallet](https://github.com/Ark-wallet/) -  Ark wallet with CLI
+- [Cashu Wallet](https://github.com/Cashu-wallet/) -  Wallet Demo CLI user-friendly by CDK 
 - [Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol) - List of resources around RGB Protocol
 - [Awesome Taproot Assets](https://github.com/22388o/awesome-taproot-assets) - List of resources around Taproot Assets
   
