@@ -6,9 +6,12 @@
 - 🌱 I’m currently creating Bitswap, FDK and helping Companies/FOSS Organizations Area Layer, Horus
 - ✈️ I’m looking to collaborate on anything about Bitcoin and Lightning Network.
 
-## Projects
+## Past projects
 
 - [Bitswap](https://github.com/Bitswap-BiFi) - DEX AMM on RGB protocol
+
+## Projects
+
 - [Frost Development Kit](https://github.com/FrostDevKit) - Development Kit for Frost
 - [Area Layer](https://github.com/AreaLayer) - P2P Economy on Bitcoin
 - [Horus (formerly Phoenix)](https://github.com/Horus-Org) - Open source Bitcoin and Lightning Network development
