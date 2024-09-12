@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/83122757/230884603-a2f05f89-c49d-417b-a899-b8557055d47a.png)
 
 
-- 👋 Hi, I’m 22388o
+- 👋 Hi, I’m 22388o,  junior timechain engineer
 - 👀 I’m interested on Bitcoin, Nostr, TBD ,  HyperCore, Lightning Network, Taproot, Miniscript, Coinjoin, Payjoin, Script, OP Codes, RGB Protocol, Taproot Assets, DLCs and more.
 - 🌱 I’m currently creating Bitswap, FDK and helping Companies/FOSS Organizations Area Layer, Horus
 - ✈️ I’m looking to collaborate on anything about Bitcoin and Lightning Network.
