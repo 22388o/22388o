@@ -10,8 +10,6 @@
 
 - [Bitswap](https://github.com/Bitswap-BiFi) - DEX AMM on RGB protocol
 - [SSI Keys](https://github.com/SSI-Keys) - Open source Chrome Extension based on SSI keys from LNP/BP Association
-- [Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol) - List of resources around RGB Protocol
-- [Awesome Taproot Assets](https://github.com/22388o/awesome-taproot-assets) - List of resources around Taproot Assets
 - [Orange Wallet](https://github.com/Orange-BTC-Wallet) - Open source Desktop  wallet with support to LN, Bitcoin and Multisig
 - [Bet BTC](https://github.com/Bet-BTC) - Open source Bet platform powered by DLC, Lightning Network, Nostr and Bitcoin
 - [Onion Tip](https://github.com/Onion-Tip) - Open source system allow earn sats thought Lightning network providing privacy
@@ -28,7 +26,9 @@
 - [Horus (formerly Phoenix)](https://github.com/Horus-Org) - Open source Bitcoin and Lightning Network development
 - [Nostr Smart Contract](https://github.com/nostr-smart-contract) - Bringing smart contracts to Nostr by Bitcoin script
 - [Ark Wallet](https://github.com/Ark-wallet/) -  Ark wallet with CLI
-- [Cashu Wallet](https://github.com/Cashu-wallet/) -  Wallet Demo CLI user-friendly by CDK 
+- [Cashu Wallet](https://github.com/Cashu-wallet/) -  Wallet Demo CLI user-friendly by CDK
+- [Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol) - List of resources around RGB Protocol
+- [Awesome Taproot Assets](https://github.com/22388o/awesome-taproot-assets) - List of resources around Taproot Assets
   
 ## Skills                                       
 <div align="center">
