@@ -29,6 +29,7 @@
 - [Cashu Wallet](https://github.com/Cashu-wallet/) -  Wallet Demo CLI user-friendly by CDK
 - [Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol) - List of resources around RGB Protocol
 - [Awesome Taproot Assets](https://github.com/22388o/awesome-taproot-assets) - List of resources around Taproot Assets
+- [AI & Robotic Labs](https://github.com/AI-Robotic-Labs) - Building a better world with AI & Robotic
   
 ## Skills                                       
 <div align="center">
