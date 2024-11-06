@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m 22388o,  junior timechain engineer
-- 👀 I’m interested on Bitcoin, Nostr, TBD ,  HyperCore, Lightning Network, Taproot, Miniscript, Coinjoin, Payjoin, Script, OP Codes, RGB Protocol, Taproot Assets, DLCs and more.
+- 👀 I’m interested on Bitcoin, Nostr, TBD ,  HyperCore, Lightning Network, Taproot, Miniscript, Coinjoin, Payjoin, Script, OP Codes, RGB Protocol, Taproot Assets, DLCs, Robot, AI and more.
 - 🌱 I’m currently creating Bitswap, FDK and helping Companies/FOSS Organizations Area Layer, Horus
 - ✈️ I’m looking to collaborate on anything about Bitcoin and Lightning Network.
 
