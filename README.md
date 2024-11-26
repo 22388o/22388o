@@ -13,7 +13,6 @@
 - [Horus (formerly Phoenix)](https://github.com/Horus-Org) - Open source Bitcoin and Lightning Network development
 - [Nostr Smart Contract](https://github.com/nostr-smart-contract) - Bringing smart contracts to Nostr by Bitcoin script
 - [Ark Wallet](https://github.com/Ark-wallet/) -  Ark wallet with CLI
-- [Cashu Wallet](https://github.com/Cashu-wallet/) -  Wallet Demo CLI user-friendly by CDK
 - [Awesome RGB Protocol](https://github.com/22388o/awesome-rgb-protocol) - List of resources around RGB Protocol
 - [Awesome Taproot Assets](https://github.com/22388o/awesome-taproot-assets) - List of resources around Taproot Assets
 - [AI & Robotic Labs](https://github.com/AI-Robotic-Labs) - Building a better world with AI & Robotic
