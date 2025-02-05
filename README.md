@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m 22388o,  junior timechain engineer
 - 👀 I’m interested on Bitcoin, Nostr, HyperCore, Lightning Network, Taproot, Miniscript, Coinjoin, Payjoin, Script, OP Codes, RGB Protocol, Taproot Assets, DLCs, Robot, AI and more.
-- 🌱 I’m currently creating Area Layer, Horus, FDK, AI & Robotic Lab
+- 🌱 I’m currently creating Area Layer, Horus, FDK, AI & Robotic Labs
 - ✈️ I’m looking to collaborate on anything about Bitcoin and Lightning Network.
 
 ## Projects
